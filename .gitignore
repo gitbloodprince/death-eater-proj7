@@ -1,0 +1,16 @@
+# Byte-compiled / cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+local.settings.json
+
+# VS Code
+.vscode/
+
+# Node modules (if JS functions later)
+node_modules/
+
+# Python venv
+.venv/
